@@ -1,0 +1,9 @@
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    --text-emphasis-color: #E3B873;
+    --circle-emphasis-color: #fff;
+    --time-animation: 1s;
+    --time-animation-half: 0.5s;
+}

@@ -1,0 +1,4 @@
+.page1-menu-item-div-selected {
+    transition: var(--time-animation);
+    border-color: var(--text-emphasis-color);
+}
