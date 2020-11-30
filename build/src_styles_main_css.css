@@ -1,0 +1,15 @@
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    --time-animation: 1s;
+    --time-animation-half: 1s;
+}
+
+.page1-menu-item-div-selected {
+    transition: var(--time-animation);
+    border-color: var(--text-emphasis-color);
+}
+
+
+
