@@ -10,7 +10,8 @@
     "commit2":"git-cz",
     "c1": "git add src",
     "c2": "npm run commit2",
-    "c3": "git push"
+    "c3": "git push",
+    "c": "npm run c1 && npm run c2 && npm run c3"
     
   },
   "repository": {
