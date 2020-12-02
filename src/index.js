@@ -20,7 +20,7 @@ function reverse(string) {
 
 
 function showResult(text) {
-    result.innerText = text;
+    result.innerText = text; 
     console.log(text);
 };
 

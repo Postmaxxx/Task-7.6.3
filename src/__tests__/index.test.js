@@ -22,7 +22,7 @@ describe('Tests for reverse', () => {
     it('Invalid symbols string', () => {
         expect(reverse(string4)).toBe(`String contains ivalid symbols!`)
     });
-    it('Invalid symbols string', () => {
+    it('Invalid symbols string', () => { 
         expect(reverse(string5)).toBe(`String contains ivalid symbols!`)
     });
     it('Invalid symbols string', () => {
